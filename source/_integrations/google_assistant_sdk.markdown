@@ -125,6 +125,7 @@ data:
 ```
 
 Example to broadcast to speakers in selected rooms:
+Note: According to the google documentation this feature is currently only available in English.
 
 ```yaml
 service: notify.google_assistant_sdk
